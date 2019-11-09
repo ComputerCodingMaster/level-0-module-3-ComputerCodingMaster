@@ -2,7 +2,7 @@ import javax.swing.JOptionPane;
 
 public class PrimeOrNot {
 
-	public static void main(String[] args) {
+	public static void xmain(String[] args) {
 		String inputstr = JOptionPane.showInputDialog(null, "Dame un numero por favor.");
 		int input = Integer.parseInt(inputstr);
 //input modulo 2.
